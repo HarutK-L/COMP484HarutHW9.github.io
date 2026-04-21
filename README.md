@@ -1,5 +1,5 @@
 1. A list of the built-in objects and methods you used: Date, Number, String, document, new Date(), getMonth(), getDate(), getFullYear(), padStart(), Number(), Number.isNaN(), Number.isInteger(), Number.parseFloat(), toFixed(), toLocaleString(), document.getElementById(), textContent, innerHTML
-2. Your **GitHub Pages link** :
+2. Your **GitHub Pages link** : https://harutk-l.github.io/COMP484HarutHW9.github.io/
 3. Path to a screenshot file of the finished webpage
 4. A short reflection of **4-5 sentences** that answers:
    - What part was easiest?
