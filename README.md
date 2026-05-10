@@ -5,9 +5,12 @@
    - What part was easiest?
      The step to add the date 
    - What part was hardest?
-     The step to 
+     The Conditional steps check
    - What did you learn about the `Date` object?
+     Date stores time internally as the number of milliseconds since January 1, 1970
    - What did you learn about the `Number` object?
+     Number is used to convert values into numbers and to check numeric properties like if a value is NaN or an integer.
    - What did you learn about displaying results in the browser?
+     JavaScript displays results in the browser by selecting an HTML element and then setting its content with properties like textContent or innerHTML.
   
      
